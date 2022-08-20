@@ -1,0 +1,6 @@
+places{
+		display: flex;
+			justify-content: center;
+				align-items: stretch;
+					flex-direction: row;
+						flex-wrap: wrap;
