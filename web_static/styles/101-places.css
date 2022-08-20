@@ -1,0 +1,7 @@
+.places {
+	    width: 100%;
+	        display: flex;
+		    margin-top: 20px;
+		        flex-flow: row wrap;
+			    justify-content: center;
+		    }
