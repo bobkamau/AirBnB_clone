@@ -1,0 +1,13 @@
+.places {
+	    width: 100%;
+	        display: flex;
+		    margin-top: 20px;
+		        flex-flow: row wrap;
+			    justify-content: center;
+		    }
+
+		    .places h1 {
+			        font-size: 30px;
+				    text-align: left;
+				        padding: 15px;
+					    flex-basis: 90%
